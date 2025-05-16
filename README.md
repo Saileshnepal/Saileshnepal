@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hi, I'm Sailesh Nepal, a passionate student of Electronics, Communication, and Information Engineering at Purwanchal Campus, Tribhuvan University. I am deeply interested in the world of electronics, embedded systems, and software development. I enjoy combining hardware and software to build creative and practical tech solutions. Currently, I'm expanding my skills in C/C++, React Native, and web technologies, and actively working on projects that reflect my learning journey. I'm always eager to explore new technologies, collaborate with like-minded individuals, and contribute to innovative ideas. Feel free to explore my repositories to see what I'm working on!</p>
+<p align="left">Hi, I'm Sailesh Nepal, a passionate student of Electronics, Communication, and Information Engineering at Purwanchal Campus,TU. I am deeply interested in the world of electronics, embedded systems, and software development. I enjoy combining hardware and software to build creative and practical tech solutions. Currently, I'm expanding my skills in C/C++, React Native, and web technologies, and actively working on projects that reflect my learning journey. I'm always eager to explore new technologies, collaborate with like-minded individuals, and contribute to innovative ideas. Feel free to explore my repositories to see what I'm working on!</p>
 
 ###
 
